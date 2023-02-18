@@ -1,0 +1,33 @@
+{
+  "user": [
+
+    {
+      "DisplayName" : "Bilbo Baggins",
+      "EmailAddress": "bilbo@domain.ca",
+      "Username" : "bbaggins",
+      "Password" : "123456"
+
+
+    },
+
+    {
+      "DisplayName" : "Shehryar Aftab",
+      "EmailAddress": "afatbs@domain.ca",
+      "Username" : "aftabs",
+      "Password" : "1234563"
+
+
+    },
+
+
+
+    {
+      "DisplayName" : "Sergio Santili",
+      "EmailAddress": "ss@domain.ca",
+      "Username" : "sergios",
+      "Password" : "12345er6"
+
+
+    }
+  ]
+}
